@@ -1,0 +1,14 @@
+/venv
+/.pytest_cache
+node_modules/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+
+/tests/__pycache__
+/tests/.pytest_cache
+
+package-lock.json
+package.json
+playwright.config.ts
