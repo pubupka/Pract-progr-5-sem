@@ -1,0 +1,11 @@
+{
+    "firstname" : "Stacy",
+    "lastname" : "Vodkova",
+    "totalprice" : -228,
+    "depositpaid" : true,
+    "additionalneeds" : "Beer",
+    "bookingdates" : {
+      "checkin" : "2013-02-23",
+      "checkout" : "2014-10-23"
+    }
+}
