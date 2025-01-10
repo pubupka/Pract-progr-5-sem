@@ -12,3 +12,11 @@ node_modules/
 package-lock.json
 package.json
 playwright.config.ts
+
+/api_autotests/__pycache__
+/api_autotests/.pytest_cache
+
+/api_autotests/autotests/__pycache__
+/api_autotests/autotests/.pytest_cache
+
+/api_autotests/requests_data/__pycache__
