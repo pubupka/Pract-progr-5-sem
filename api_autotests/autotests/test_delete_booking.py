@@ -14,4 +14,3 @@ def test_delete_booking(api_request_context: APIRequestContext):
     response = rb.delete_booking(id, token)
 
     expect(response).to_be_ok()
-    

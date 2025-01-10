@@ -13,4 +13,3 @@ def test_get_token(api_request_context: APIRequestContext):
 
     validate(response.json(), valid_schema)
     expect(response).to_be_ok()
-    
